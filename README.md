@@ -5,7 +5,7 @@ by
 Assistant Professor
 University of Maryland
 
-- Panagiotis Karampourniotis, PhD
+- Panagiotis Karampourniotis, PhD <br>
 Sr Data Scientist
 Aetna
 
