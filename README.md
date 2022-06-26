@@ -1,5 +1,5 @@
 AMIA 2019 Instructional Workshop: <br>
-[Introduction to network analytics in healthcare research: Application to patient sharing provider networks]: https://symposium2019.zerista.com/event/member/602298
+Introduction to network analytics in healthcare research: Application to patient sharing provider networks: https://symposium2019.zerista.com/event/member/602298
 
  by <br>
 - Eva DuGoff, PhD, MPP <br>
